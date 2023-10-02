@@ -1,0 +1,212 @@
+id,name,nameshort,nickname,age,city,familyclan,position,crime,sentence
+T,Trabia,T,NA,NA,NA,Trabia,NA,NA,NA
+GIRA,Giuseppe Rancadore,GiRa,"""Il professore""",1925,Trabia,Trabia,Boss,NA,1. Grad: Freispruch 2. Grad 5 Jahre 4 Monate
+VB,Villabate,VB,NA,NA,NA,Villabate,NA,NA,NA
+GIMO,Giuseppe Montalto,GiMo,NA,1959,Villabate,Villabate,Boss,NA,1. Grad: 25 Jahre 3 Mio. Lire 2. Grad: 6 Jahre
+SAMO,Salvatore Montalto,SaMo,NA,1936,Villabate,Villabate,Boss,Mord,1. Grad: Lebenslang 10 Mio. Lire 2. Grad: 6 Jahre
+VC,Villagrazia di Carini,VC,NA,NA,NA,Villagrazia di Carini,NA,NA,NA
+ANPI,Angelo Antonino Pipitone,AnPi,NA,1943,Carini,Villagrazia di Carini,Boss,NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 13 Jahre 4 Monate
+GIPI,Giovan Battista Pipitone,GiPi,NA,1949,Carini,Villagrazia di Carini,Boss,NA,1. Grad: 4 Jahre 10 Mio. Lire 2. Grad: Freispruch
+VIPI,Vincenzo Pipitone,ViPi,NA,1956,Torretta,Villagrazia di Carini,Mitglied,NA,1. Grad: 4 Jahre 10 Mio. Lire 2. Grad: Freispruch
+N,Noce,N,NA,NA,NA,Noce,NA,NA,NA
+RASP,Raffaele Spina,RaSp,NA,NA,NA,Noce,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 4 Jahre
+GIUS,Giuseppe Spina,GiuS,NA,NA,NA,Noce,Mitglied,NA,1. Grad: 3 Jahre 6 Monate 25 Mio. Lire 2. Grad: 2 Jahre
+AROT,Antonino Rotolo,ARot,NA,1946,Palermo,Noce,Boss,NA,1. Grad: 18 Jahre 160 Mio. Lire 2. Grad: Freispruch
+PC,Palermo Centro,PC,NA,NA,NA,Palermo Centro,Mitglied,NA,NA
+VISO,Vincenzo Sorce,ViSo,"""Cece""",NA,Palermo,Palermo Centro,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 4 Jahre
+GICO,Giovanni Corallo,GiCo,NA,NA,Palermo,Palermo Centro,Mitglied,NA,1. Grad: 4 Jahre 2. Grad: 5 Jahre 4 Monate
+GIDI,Giovanni Di Pasquale,GiDi,NA,NA,Palermo,Palermo Centro,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 6 Jahre 4 Monate
+SEMI,Settimo Mineo,SeMi,NA,1938,Palermo,Palermo Centro,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 4 Monate
+FS,Famiglia Santapaola,FS,NA,NA,NA,Famiglia Santapaola,NA,NA,NA
+BESA,Benedetto Santapaola,BeSa,"""Nitto"" ""Il cacciatore""",1938,Catania,Famiglia Santapaola,"Boss Clan, Boss Regional Kommission, Interprovenzial-Kommission","Mord, Schmuggel, Diebstahl",1. Grad: Lebenslang 200 Mio. Lire 2. Grad: Lebenslang 200 Mio. Lire
+FRCA,Francesco Cannizzaro,FrCa,NA,NA,NA,Famiglia Santapaola,Mitglied,NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 16 Jahre
+DOCO,Domenico Condorelli,DoCo,NA,NA,NA,Famiglia Santapaola,Mitglied,NA,1. Grad: 15 Jahre 50 Mio. Lire 2. Grad: 15 Jahre 50 Mio. Lire
+SACR,Salvatore Cristaldi,SaCr,NA,NA,NA,Famiglia Santapaola,Mitglied,NA,1. Grad: 10 Jahre 50 Mio. Lire 2. Grad: 8 Jahre
+SAER,Salvatore Ercolano,SaEr,"""Turi""",1940,Catania,Famiglia Santapaola,Co-Capo,NA,1. Grad: 16 Jahre 90 Mio. Lire 2. Grad: Freispruch
+ANFE,Antonino Ferrera,AnFe,NA,NA,NA,Famiglia Santapaola,Mitglied,NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 17 Jahre 120 Mio. Lire
+FRFE,Francesco Ferrera,FrFe,NA,NA,NA,Famiglia Santapaola,Mitglied,NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 17 Jahre 120 Mio. Lire
+GIFE,Giuseppe Ferrera,GiFe,NA,NA,NA,Famiglia Santapaola,Mitglied,NA,1. Grad: 22 Jahre 180 Mio. Lire 2. Grad: Freispruch
+CM,Corso dei Mille,CM,NA,NA,NA,Corso dei Mille,NA,NA,NA
+FIMA,Filippo Marchese,FiMa,"""Milinciana"", ""Aubergine"", ""Fifuzzu""",1938,Palermo,Corso dei Mille,Boss,Mord,1. Grad: Lebenslang 200 Mio. Lire
+BETI,Benedetto Tinnirello,BeTi,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 9 Jahre 3 Mio. Lire 2. Grad: 3 Jahre
+PIVE,Pietro Vernengo,PiVe,NA,NA,NA,Corso dei Mille,Boss,"Mord,Drogen",1. Grad: Lebenslang 200 Mio. Lire 2. Grad: Lebenslang 200 Mio. Lire
+CAZA,Carmelo Zanca,CaZa,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 18 Jahre 160 Mio. Lire 2. Grad: 13 Jahre
+ANMA,Antonino Marchese,AnMa,NA,NA,Palermo,Corso dei Mille,Mitglied,NA,1. Grad: Lebenslang 200 Mio. Lire 2. Grad: Lebenslang 200 Mio. Lire
+GIMA,Giuseppe Marchese,GiMa,Pino,1963,Palermo,Corso dei Mille,Mitglied,Mord,1. Grad: Lebenslang 200 Mio. Lire 2. Grad: 6 Jahre 8 Monate
+VIMA,Vincenzo Marchese,ViMa,NA,NA,Palermo,Corso dei Mille,Mitglied,NA,1. Grad: Freispruch 2. Grad: 5 Jahre 4 Monate
+GATI,Gaetano Tinnirello,GaTi,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 9 Jahre 3 Mio. Lire 2. Grad: 9 Jahre 3 Mio. Lire
+GITI,Giuseppe Tinnirello,GiTi,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: Freispruch
+LOTI,Lorenzo Tinnirello,LoTi,NA,1960,NA,Corso dei Mille,Mitglied,NA,1. Grad: 10 Jahre 3 Mio. Lire 2. Grad: 7 Jahre
+ANVE,Antonino Vernengo,AnVe,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 16 Jahre 90 Mio. Lire 2. Grad: 16 Jahre 90 Mio. Lire
+COVE,Cosimo Vernengo,CoVe,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 9 Jahre
+GIVE,Giuseppe Vernengo,GiVe,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 18 Jahre 2. Grad: 6 Jahre 6 Monate
+RUVE,Ruggero Vernengo,RuVe,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 14 Jahre 70 Mio. Lire 2. Grad: 4 Jahre
+GIZA,Giovanni Zanca,GiZa,NA,1939/1941,NA,Corso dei Mille,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: Freispruch
+ONZA,Onofrio Zanca,OnZa,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: Freispruch
+GIAB,Giovanni Abbate,GiAb,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: Freispruch 2. Grad: 3 Jahre
+MAAB,Mario Abbate,MaAb,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: 5 Jahre 4 Monate
+PAAL,Paolo Alfano,PaAl,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 17 Jahre 120 Mio. Lire
+PIAL,Pietro Alfano,PiAl,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 5 Jahre 30 Mio. Lire 2. Grad: Freispruch
+FIAR,Filippo Argano,FiAr,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: 8 Jahre
+GAAR,Gaspare Argano,GaAr,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: 7 Jahre
+FRBU,Francesco Buffa,FrBu,NA,NA,NA,"Corso dei Mille, Ciaculli",Mitglied,NA,1. Grad: 6 Jahre 2. Grad: 2 Jahre 8 Monate
+VIBU,Vincenzo Buffa,ViBu,NA,NA,NA,"Corso dei Mille, Ciaculli",Mitglied,NA,1. Grad: 15 Jahre 1 Mio. Lire 2. Grad: 14 Jahre 6 Monate
+SABU,Salvatore Buscemi,SaBu,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: 7 Jahre
+SACH,Salvatore Chiaracane,SaCh,"""The Lawyer""",NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 4 Jahre 6 Monate 2. Grad: 3 Jahre
+DOFE,Domenico Federico,DoFe,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 10 Monate
+GIIN,Giovan Battista Inchiappa,GiIn,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: Freispruch
+GALO,Gaspare Lo Cascio,GaLo,NA,1942,NA,Corso dei Mille,Mitglied,NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 7 Jahre 80 Mio. Lire
+GILO,Giovanni Lo Cascio,GiLo,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 5 Jahre 2. Grad: 5 Jahre
+GIOL,Giovanni Olivieri,GiOl,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 9 Jahre 3 Monate 2. Grad: 3 Jahre
+ANSI,Antonino Sinagra,AnSi,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: Lebenslang 200 Mio. Lire 2. Grad: Lebenslang 200 Mio. Lire
+FRPA,Francesco Paolo Sinagra,FrPa,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 5 Jahre 15 Mio. Lire 2. Grad: 3 Jahre 2 Monate
+VISI,Vincenzo Sinagra,ViSi,NA,1956,Palermo,Corso dei Mille,Mitglied,Mord,1. Grad: Lebenslang 10 Mio. Lire 2. Grad: Lebenslang 10 Mio. Lire
+VSDA,Vincenzo Sinagra di Antonino,VSdA,NA,NA,NA,Corso dei Mille,Mitglied,NA,1. Grad: 21 Jahre 10 Mio. Lire 2. Grad: 19 Jahre
+PITA,Pietro Tagliavia,PiTa,NA,1978,NA,Corso dei Mille,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 6 Jahre
+A,Altofonte,A,NA,NA,NA,Altofonte,NA,NA,NA
+ANDC,Andrea Di Carlo,AnDC,NA,NA,Altofonte,Altofonte,"Capo von Altofonte, Teil der Kommission 1982 für das Altofonte-mandamento",NA,1. Grad: 7 Jahre 6 Monate 2. Grad: 5 Jahre 10 Monate
+GIDC,Giulio Di Carlo,GiDC,NA,NA,Altofonte,Altofonte,Mitglied,NA,1. Grad: 7 Jahre 6 Monate 2. Grad: 5 Jahre 10 Monate
+B,Bagheria,B,NA,NA,NA,Bagheria,NA,NA,NA
+LEGR,Leonardo Greco,LeGr,NA,NA,Bagheria,Bagheria,Capo der Bagheria-Familie,NA,1. Grad: 22 Jahre 180 Mio. Lire 2. Grad: Auszug (stralcio)
+GISC,Giovanni Scaduto,GiSc,NA,NA,Bagheria,Bagheria,"Mitglied, Teil der Kommission 1982 für das Bagheria-Mandamento",NA,1. Grad: 4 Jahre 2. Grad: 4 Jahre
+P,Partanna-Mondello,P,NA,NA,NA,Partanna-Mondello,NA,NA,NA
+RORI,Rosario Riccobono,RoRi,"""Saro""",1929,Palermo,Partanna-Mondello,"Capo von Partanna-Mondello, Mitglied der Cupola",Drogenhandel,1. Grad: lebenslang 200 Mio. Lire 2.Grad: tot
+GICU,Giovanni Cusimano,GiCu,NA,NA,NA,Partanna-Mondello,Mitglied,NA,1. Grad: 16 Jahre 90 Mio. Lire 2. Grad: 5 Jahre 10 Monate
+GIGI,Giovanni Di Giacomo,GiGi,NA,NA,NA,Partanna-Mondello,Mitglied,NA,1. Grad: 16 Jahre 90 Mio. Lire 2. Grad: 9 Jahre
+GAMU,Gaspare Mutolo,GaMu,NA,1940,NA,Partanna-Mondello,"Mitglied, Riccobonos rechte Hand",Drogenhandel,1. Grad: 16 Jahre 90 Mio. Lire 2. Grad: 14 Jahre
+R,Resuttana,R,NA,NA,NA,Resuttana,NA,NA,NA
+FRCM,Francesco Ciccio Madonia,FrCM,NA,1924,Palermo,Resuttana,"Capo von Resuttana, Mitglied der Mafia-Kommission 1978 und 1982 für das Resuttana-Mandamento",Mord,1. Grad: lebenslang 200 Mio. Lire 2. Grad: 23 Jahre
+GMAD,Giuseppe Madonia,GMad,NA,1954,Palermo,Resuttana,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 6 Jahre 6 Monate
+SMAD,Salvatore Madonia,SMad,"""Salvino""",1956,Palermo,Resuttana,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 4 Monate
+GICL,Giuseppe Ciulla,GiCl,NA,NA,NA,Resuttana,Mitglied,Drogenhandel,1. Grad: 13 Jahre 50 Mio. Lire 2. Grad: tot
+SL,San Lorenzo,SL,NA,NA,NA,San Lorenzo,NA,NA,NA
+GIGA,Giacomo Giuseppe Gambino,GiGa,"""u tignusu (the bald one)""",1941,Palermo,San Lorenzo,"Capo von San Lorenzo, Stellvertreter Riinas, Teil des squadra della morte",NA,1. Grad: 18 Jahre 160 Mio. Lire 2. Grad: 16 Jahre
+TN,Tommaso Natale,TN,NA,NA,NA,Tommaso Natale,NA,NA,NA
+ARBO,Armando Bonanno,ArBo,NA,NA,Palermo,Tommaso Natale,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: Auszug(stralcio)
+FRBO,Francesco Bonanno,FrBo,NA,NA,Palermo,Tommaso Natale,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 2 Jahre (condizionale)
+LUBO,Luca Bonanno,LuBo,NA,NA,Palermo,Tommaso Natale,Mitglied,NA,1. Grad: 6 Jahre 6 Monate 2. Grad: tot
+BC,Brancaccio,BC,NA,NA,NA,Brancaccio,NA,NA,NA
+GSAV,Giuseppe Savoca,GSav,NA,1934,Palermo,Brancaccio,Capo von Brancaccio,NA,1. Grad: 22 Jahre 180 Mio. Lire 2. Grad: 21 Jahre 6 Monate
+CASA,Carmelo Savoca,CaSa,NA,NA,NA,Brancaccio,Mitglied,NA,1. Grad: 4 Jahre 40 Mio. Lire 2. Grad: 5 Jahre 4 Monate
+VISA,Vincenzo Savoca,ViSa,NA,NA,NA,Brancaccio,Mitglied,NA,1. Grad: Freispruch 2. Grad: 5 Jahre 4 Monate
+ANCA,Antonino Casella,AnCa,NA,NA,NA,Brancaccio,Mitglied,Mord,1. Grad: 6 Jahre 6 Monate 2. Grad: tot
+GIUC,Giuseppe Casella,GiuC,NA,NA,NA,Brancaccio,Mitglied,Mord,1. Grad: 2 Jahre 6 Monate 3 Mio. Lire 2. Grad: 2 Jahre 6 Monate 3 Mio. Lire
+BEGR,Benedetto Graviano,BeGr,NA,1958,Palermo,Brancaccio,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: 5 Jahre 4 Monate
+FIGR,Filippo Graviano,FiGr,"""u Baruni""",1961,Palermo,Brancaccio,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: 5 Jahre 4 Monate
+GGRA,Giuseppe Graviano,GGra,„Martidduzzu“ „Madre Natura“,1963,Palermo,Brancaccio,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: 5 Jahre 4 Monate
+ANLI,Andrea Lo Iacono,AnLI,NA,NA,NA,Brancaccio,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 4 Monate
+CC,Ciaculli-Croceverde Giardini,CC,NA,NA,NA,Ciaculli-Croceverde Giardini,NA,NA,NA
+MIGR,Michele Greco,MiGr,„Il Papa = Der Papst“,1924,Ciaculli,Ciaculli,"Capo der Ciaculli-Familie und Grecos, Leiter der CN-Kommission und Sekretär, Vorsitzender des Ciaculli-Mandamento",Mord,1. Grad: lebenslang 200 Mio. Lire 2. Grad: lebenslang 200 Mio. Lire
+GIGR,Giuseppe Greco,GiGr,"""Pino"" ""Scarpuzzedda = der kleine Schuh""",1952,Ciaculli,Ciaculli,"Mitglied und Unterboss der Ciaculli-Familie, Teil der Mafia-Kommission, Teil des Squadra della Morte",58 Mordfälle,1. Grad: lebenslang 200 Mio. Lire trotz Tod
+SAGR,Salvatore Greco,SaGr,„Il Senatore = Der Senator“,1927,Ciaculli,Ciaculli,Mitglied,Mord,1. Grad: 18 Jahre 160 Mio. Lire 2. Grad: 6 Jahre
+GIUG,Giuseppe Greco (di Michele),GiuG,„Giorgio Castellani“,1952,Ciaculli,Ciaculli,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: 4 Jahre
+GGRE,Giuseppe Greco (di Salvatore),GGre,"""U Minnuni""",NA,Ciaculli,Ciaculli,Mitglied,NA,1. Grad: 4 Jahre 6 Monate 2. Grad: 5 Jahre 6 Monate
+NGRE,Nicolo Greco,NGre,NA,1950,Ciaculli,Ciaculli,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 10 Monate
+GICA,Giuseppe Castellana,GiCa,NA,NA,Ciaculli,Ciaculli,"capo-decina der Ciaculli-Familie, Ratsmitglied landwirtschaftlichen Genossenschaft S.Spirito und Unternehmen ASPO",NA,1. Grad: 6 Jahre 6 Monate 2. Grad: tot
+DOCR,Domenico Croce,DoCr,NA,NA,Ciaculli,Ciaculli,Mitglied,Kriminelle Verschwörung und Mafia-Vereinigung,1. Grad: 6 Jahre 2. Grad: tot
+ANLR,Antonino La Rosa,AnLR,NA,NA,Palermo,Ciaculli,Mitglied,Drogenhandel,1. Grad: 7 Jahre 2. Grad: Freispruch
+GILR,Giovanni La Rosa,GiLR,NA,NA,NA,Ciaculli,capo-decina der Ciaculli-Familie,NA,1. Grad: 8 Jahre 2. Grad: 6 Jahre 8 Monate
+ANLU,Antonino Lucchese,AnLu,NA,1963,NA,Ciaculli,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: Freispruch
+GILU,Giuseppe Lucchese,GiLu,"""u Lucchiseddu""",1959,Palermo,Ciaculli,"Mitglied, Vorsitzender des Brancaccio-Ciaculli-Mandamento, Teil des squadra della morte",Mord,1. Grad: lebenslang 10 Mio. Lire 2. Grad: 17 Jahre
+ROMA,Rocco Marsalone,RoMa,NA,NA,NA,Ciaculli,Mitglied,Drogenherstellung,1. Grad: 5 Jahre 10 Mio. Lire 2. Grad: 3 Jahre
+SAMA,Salvatore G. Marsalone,SaMa,NA,NA,NA,Ciaculli,Mitglied,Drogenherstellung,1. Grad: 8 Jahre 6 Monate 40 Mio. Lire 2. Grad: 6 Jahre 6 Monate
+GIPA,Giuseppe Pace,GiPa,NA,NA,NA,Ciaculli,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: Freispruch
+STPA,Stefano Pace,StPa,NA,NA,NA,Ciaculli,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: Freispruch
+VIPA,Vincenzo Pace,ViPa,NA,NA,NA,Ciaculli,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: Freispruch
+ANPU,Antonino Puccio,AnPu,NA,1936,Palermo,Ciaculli,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: tot
+PIPU,Pietro Puccio,PiPu,NA,NA,Palermo,Ciaculli,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: tot
+VIPU,Vincenzo Puccio,ViPu,NA,1945,Palermo,Ciaculli,"Mitglied, Teil des squadra della morte",Mord,1. Grad: 10 Jahre 2. Grad: tot
+GIPR,Giovanni Prestifilippo,GiPr,NA,1921,NA,Ciaculli,"Mitglied, bis 1963 Capo und Vertreter der Ciaculli-Familie",NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 11 Jahre 6 Monate
+GPRE,Giovanni Prestifilippo,Gpre,NA,1927,NA,Ciaculli,Mitglied,NA,1. Grad: Freispruch 2. Grad: 5 Jahre 4 Monate
+GIUP,Giuseppe Prestifilippo,GiuP,NA,NA,NA,Ciaculli,Mitglied,NA,1. Grad: 8 Jahre 3 Mio. Lire 2. Grad: 5 Jahre 6 Monate
+SAPR,Salvatore Prestifilippo,SaPr,NA,NA,NA,Ciaculli,Mitglied,NA,1. Grad: 17 Jahre 120 Mio. Lire 2. Grad: 16 Jahre 6 Monate
+NIPR,Nicola Prestifilippo,NiPr,NA,1950,NA,Ciaculli,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: 5 Jahre 4 Monate
+C,Corleonesi,C,NA,NA,Corleone,Corleonesi,NA,NA,NA
+SARI,Savatore Riina,SaRi,"""Toto"", ""Capo dei Capi"", ""U Curtu""",1930,Corleone,Corleonesi,"Boss, Teil der 82 Kommission für Corleone mandamento, 86 Vorsitzender davon",Morde,1. Grad: lebenslänglich 200 Mio Lire 2. Grad: lebenslänglich 200 Mio Lire
+BEPR,Bernardo Provenzano,BePr,"""U'Tratturi""",1933,Corleone,Corleonesi,"Boss, Teil der 82 Kommission für Corleone mandamento",NA,1. Grad: lebenslänglich 200 Mio. Lire 2. Grad: 10 Jahre
+LEBA,Leoluca Bagarella,LeBa,NA,1942,Corleone,Corleonesi,Stellvertreter,Mord,1. Grad: 6 Jahre 2. Grad: 4 Jahre
+SAPA,Saverio Palazzolo,SaPa,NA,NA,Corleone,Corleonesi,Mitglied,NA,1. Grad: 4 Jahre 10 Mio Lire 2. Grad: Freispruch
+PAPA,Paolo Palazzolo,PaPa,NA,NA,Corleone,Corleonesi,Mitglied,NA,1. Grad: 4 Jahre 10 Mio Lire 2. Grad: Freispruch
+PN,Porta Nuova,PN,NA,NA,Palermo,Porta Nuova,NA,NA,NA
+GCAL,Giuseppe Calo,GCal,"""Pippo"", ""Kassenwart""",1931,Palermo,Porta Nuova,"Boss, Teil der 82 Kommssion für das Porta Nuova mandamento, 87 gleich",Zugsprennung,1. Grad: 23 Jahre 200 Mio Lire 2. Grad: 23 Jahre
+TOSP,Tommaso Spadaro,ToSp,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 22 Jahre 180 Mio Lire 2. Grad: 21 Jahre 6 Monate
+GEAL,Gerlando Alberti,GeAl,NA,1927,Palermo,Porta Nuova,Mitglied,Heroinhandel,1. Grad: 15 Jahre 30 Mio Lire 2. Grad: 8 Jahre
+GIBA,Giuseppe Baldi,GiBa,NA,1928,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 6 Jahre 2. Grad: 5 Jahre 4 Monate
+TOBU,Tommaso Buscetta,ToBu,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 3 Jahre 2. Grad: 6 Monate
+ANRO,Antonio Rotolo,AnRo,NA,NA,Palermo,Porta Nuova,Mitglied,Mord,1. Grad: 18 Jahre 160 Mio Lire 2. Grad: stralcio
+GIUCA,Giuseppe Calamia,GiuCa,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: Freispruch 2. Grad: 6 Jahre
+GICI,Gioacchino Cillari,GiCi,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: Freispruch 2. Grad: 7 Jahre 6 Monate
+ANCI,Antonio Cillari,AnCi,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 8 Jahre 3 Mio Lire 2. Grad: 23 Jahre
+TOMA,Tommaso Magliozzo,ToMa,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: Freispruch 2. Grad: 5 Jahre 10 Monate
+VITM,Vittorio Magliozzo,VitM,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 4 Monate
+NIMI,Nicolo Milano,NiMi,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 17 Jahre 120 Mio Lire 2. Grad: 13 Jahre 4 Monate
+NUMI,Nunzio Milano,NuMi,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 4 Monate
+SAMI,Salvatore Milano,SaMi,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre 4 Monate
+SARO,Salvatore Rotolo,SaRo,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: lebenslänglich 200 Mio Lire 2. Grad: lebenslänglich 200 Mio Lire
+PISE,Pietro Senapa,PiSe,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: lebenslänglich 200 Mio Lire 2. Grad: lebenslänglich 200 Mio Lire
+ANSP,Antonio Spadaro,AnSp,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 4 Jahre 10 Mio Lire 2. Grad: Freispruch
+FRSP,Francesco Spadaro,FrSp,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: lebenslänglich 10 Mio Lire 2. Grad: lebenslänglich 10 Mio Lire
+GISP,Giuseppe Spadaro,GiSp,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 6 Jahre 6 Monate
+VISP,Vincenzo Spadaro,ViSp,NA,NA,Palermo,Porta Nuova,Mitglied,NA,1. Grad: 17 Jahre 120 Mio Lire 2. Grad: 11 Jahre 6 Monate
+SCP,San Cipirrello,SCp,NA,NA,NA,San Giuseppe Jato,NA,NA,NA
+BEBR,Bernardo Brusca,BeBr,NA,1929,San Giuseppe Jato,San Cipirrello,"Boss, Teil der 82 Kommission für das San Giuseppe Jato mandamento",NA,1. Grad: 23 Jahre 200 Mio Lire 2. Grad: 16 Jahre
+GIBR,Giovanni Brusca,GiBr,NA,1957,San Giuseppe Jato,San Cipirrello,Boss,Morde,1. Grad: Freisrpuch 2. Grad: 6 Jahre
+S,Salemi,S,NA,NA,NA,Salemi,NA,NA,NA
+IGSA,Ignazio Salvo,IgSa,NA,1931,Salemi,Salemi,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 3 Jahre
+MDV,Mazara del Vallo,MdV,NA,NA,NA,Mazara del Vallo,NA,NA,NA
+MAAG,Mariano Agate,MaAg,NA,1939,Mazara del Vallo,Mazara del Vallo,"Boss, Teil der 82 Kommission für das Mazara del Vallo mandamento","Mord, Heroinhandel",1. Grad: 22 Jahre 180 Mio 2. Grad: 6 Jahre 6 Monate
+SM,Santa Maria di Gesu,SM,NA,NA,NA,Santa Maria di Gesu,NA,Na,NA
+FRPB,Francesco Paolo Bontate,FrPB,"""Don Paolino Bonta""",1914,NA,Santa Maria di Gesu,Vater vom Boss,kriminelle Vereinigung und Mord,1. Grad: lebenslang 2. Grad: lebenslang
+FRFA,Francesco Fascella,FrFa,NA,NA,NA,Santa Maria di Gesu,NA,NA,1. Grad: 9 Jahre und 3 Mio. Lire 2. Grad: 8 Jahre 6 Monate
+PIAG,Pietro Aglieri,PiAg,"""Signurinu (Der kleine Gentleman)""",1959,NA,Santa Maria di Gesu,NA,Bombenanschläge auf Mafia-Ermittler,1. Grad: lebenslang 2. Grad: lebenslang
+SACO,Salvatore Contorno,SaCo,"""Totuccio""",1946,Palermo,Santa Maria di Gesu,Jadggefährte vom Boss,"Zigarettenschmuggel, Heroinhandel, Entführungen",1. Grad: 22 Jahre 2. Grad: 22 Jahre
+GBPU,Giovan Battista Pullara,GBPu,NA,NA,NA,Santa Maria di Gesu,Mitglied,NA,1. Grad: lebenslang und 200 Mio. Lire 2. Grad: lebenslang
+PIFA,Pietro Fascella,PiFa,NA,NA,Na,Santa Maria di Gesu,Mitglied,NA,1. Grad: 9 Jahre 2. Grad: freigesprochen
+GLVE,Giovanni Lo Verde,GLVe,NA,NA,NA,Santa Maria di Gesu,Mitglied,NA,1. Grad: 17 Jahre und 120 Mio. Lire 2. Grad: 4 Jahre
+IGMO,Ignazio Motisi,IgMo,NA,NA,NA,Santa Maria di Gesu,Mitglied,NA,1. Grad: freigesprochen 2. Grad: 3 Jahre und 4 Monate
+IGPU,Ignazio Pullara,IgPu,NA,NA,NA,Santa Maria di Gesu,Mitglied,NA,1. Grad: 10 Jahre und 50 Mio. Lire 2. Grad: 9 Jahre
+FRTE,Francesco Teresi,FrTe,NA,NA,NA,Santa Maria di Gesu,Mitglied,NA,1. Grad: freigesprochen 2. Grad: 3 Jahre
+GITE,Giovanni Teresi,GiTe,NA,NA,NA,Santa Maria di Gesu,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: 8 Jahre
+V,Villagrazia,V,NA,NA,NA,Villagrazia,NA,NA,NA
+SADB,Salvatore di Blasi,SadB,NA,1934,NA,Villagrazia,Mitglied,Neue Organisation und Aufrechterhaltung der Mafia-Familie,1. Grad: 6 Jahre 6 Monate 2. Grad: 5 Jahre 10 Monate
+MAMA,Mariano Marchese,MaMa,"""Onkel Mariano""",1939,NA,Villagrazia,Boss,Neuer Leiter des Bezirks Villagrazia,1. Grad: lebenslang 2. Grad: lebenslang
+RMAR,Rosario Marchese,RMar,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 5 Jahre und 4 Monate
+FRAD,Francesco Adelfio,FrAd,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: 6 Jahre 6 Monate 2. Grad: 5 Jahre 10 Monate
+GIAD,Giovanni Adelfio,GiAd,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: 6 Jahre 6 Monate 2. Grad: 5 Jahre 10 Monate
+MAAD,Mario Adelfio,MaAd,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: freigesprochen 2. Grad: 2 Jahre
+BECA,Benedetto Capizzi,BeCa,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: 3 Jahre
+SAAD,Salvatore Adelfio,SaAd,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: freigesprochen 2. Grad: 6 Jahre
+SCON,Salvatore Contorno,SCon,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: 6 Jahre und 10 Mio. Lire 2. Grad: Berufungen unzulässig
+GAGR,Gaetano Grado,GaGr,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: 17 Jahre und 120 Mio. Lire 2. Grad: 16 Jahre
+GIGB,Giuseppe Gambino,GiGb,NA,NA,NA,Villagrazia,Mitglied,NA,1. Grad: 8 Jahre 2. Grad: 3 Jahre
+GIAG,Giacomo Grado,GiaG,NA,NA,NA,Villagrazia,Mitglied,NA,"1. Grad: 9 Jahre und 40 Mio. Lire, 2. Grad: 9 Jahre und 40 Mio. Lire"
+SGRA,Salvatore Grado,SGra,NA,NA,NA,Villagrazia,Mitglied,NA,"1. Grad: 9 Jahre und 40 Mio. Lire, 2. Grad: 10 Jahre"
+VIGR,Vincenzo Grado,ViGr,NA,NA,NA,Villagrazia,Mitglied,NA,"1. Grad: 9 Jahre und 40 Mio. Lire, 2. Grad: 4 Jahre"
+U,Uditore,U,NA,NA,NA,Uditore,NA,NA,NA
+FRCB,Francesco Bonura,FrcB,NA,1942,NA,Uditore,Boss,Mafia-Verbindung,"1. Grad: 6 Jahre, 2. Grad: 7 Jahre"
+SAIN,Santo Inzerillo,SaIn,NA,NA,NA,Uditore,Mitglied,NA,1. Grad: 6 Jahre
+ROSA,Rosario Sansone,RoSa,NA,NA,NA,Uditore,Mitglied,NA,1. Grad: 7 Jahre
+M,Milano,M,NA,NA,NA,Milano,NA,NA,NA
+ANFI,Antonino Fidanzati,AnFi,NA,NA,Na,Milano,Mitglied,NA,1. Grad: 9 Jahre und 40 Mio. Lire 2. Grad: 9 Jahre und 40 Mio. Lire
+CAFI,Carlo Fidanzati,CaFi,NA,NA,NA,Milano,Mitglied,NA,1. Grad: 6 Jahre
+GIFI,Giuseppe Fidanzati,GiFi,NA,NA,NA,Milano,Mitglied,NA,1. Grad: 9 Jahre und 40 Mio. Lire 2. Grad: 9 Jahre und 40 Mio. Lire
+STFI,Stefano Fidanzati,StFi,NA,NA,NA,Milano,Mitglied,NA,1. Grad: 9 Jahre und 40 Mio. Lire 2. Grad: 16 Jahre
+CI,Cinisi,CI,NA,NA,NA,Cinisi,NA,NA,NA
+CEMA,Ceasare Manzella,CeMa,NA,1897,Cinisi,Cinisi,Oberhaupt/Boss,Export und Import von Schmuggelware (Betäubungsmittel),NA
+GABA,Gaetano Badalamenti,GaBa,"""Tano""",1923,Cinisi,Cinisi,Stellvertreter vom Boss (nach Tod vonCeasare),"Anführung vom Drogelhandelring ""Pizza Connection""",1. Grad: 45 Jahre 2. Grad: 45 Jahre
+VIBA,Vito Badalmenti,ViBa,NA,NA,NA,Cinisi,Mitglied und Sohn von Gaetano,Auf der Liste der 30 meistgesuchten Italiener,NA
+FRBR,Francesco Bruno,FrBr,NA,NA,NA,Cinisi,Mitglied,NA,1. Grad: 25 Jahre und 3 Mio. Lire
+DITR,Diego Di Trapani,DiTr,NA,NA,NA,Cinisi,Mitglied,NA,"1. Grad: 7 Jahre, 2. Grad: 5 Jahre 4 Monate"
+PA,Partinico,PA,NA,NA,NA,Partinico,NA,NA,NA
+VIVI,Vito Vitale,Vivi,NA,NA,NA,Partinico,Boss,Anführer Mafiafamilie Partinico,1. Grad: lebenslang
+GIVI,Giovanni Vitale,Givi,NA,1982,NA,Partinico,Mitglied und Sohn von Vito Vitale,"Mitgleidschaft Mafiaclan Partinico, Erpressung, Brandstiftung, Drogenhandel, illegaler Waffenbesitz",1. Grad: lebenslang
+ANGE,Antonino Geraci,AnGe,"""Nene""",NA,NA,Partinico,ehemaliger Boss,Teil der Komission 1982 für das Partinico Mandamento,"1. Grad: 12 Jahre und 3 Mio. Lire, 2. Grad: 7 Jahre"
+GILA,Giuseppe Lamberti,GiLa,NA,NA,NA,Partinico,Mitglied,NA,1. Grad: 17 Jahre und 120 Mio. Lire
+SALA,Salvatore Lamberti,SaLa,NA,NA,NA,Partinico,Mitglied,NA,1. Grad: 17 Jahre und 120 Mio. Lire
+BO,Bolognetta,BO,NA,NA,NA,Bolognetta,NA,NA,NA
+PICI,Pietro Cireco,Pici,NA,1940,NA,Bolognetta,Mitglied,Infos für Durchführung krimineller Aktivitäten gelifert (Operation Jafar),9 Jahre und 3 Monate Gefängnis
+GIBO,Giuseppe Bono,GiBo,NA,NA,NA,Bolognetta,Mitglied,NA,1. Grad: 23 Jahre und 200 Mio. Lire
+ALBO,Alfredo Bono,AlBo,NA,NA,NA,Bolognetta,Mitglied,NA,1. Grad: 18 Jahre und 160 Mio. Lire
+GAFI,Gaetano Fidanzati,GaFi,NA,NA,NA,Bolognetta,Mitglied,NA,"1. Grad: 22 Jahre und 160 Mio. Lire, 2. Grad: 12 Jahre"
+BIMA,Biagio Martello,BiMa,NA,NA,NA,Bolognetta,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 6 Jahre
+MAMI,Mario Martello,MaMi,NA,NA,NA,Bolognetta,Mitglied,NA,1. Grad: 7 Jahre 2. Grad: 6 Jahre
